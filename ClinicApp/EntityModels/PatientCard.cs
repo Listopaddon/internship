@@ -24,7 +24,7 @@ namespace ClinicApp.EntityModels
         public String Address { get; set; }
         public String PhoneNumber { get; set; }
         public List<Request> Requests { get; set; }
-        public Int32 Age  //fix bag number 1. read file FixBags.docx
+        public Int32 Age  //fix bag number 4. read file FixBags.docx
         {
             get
             {
